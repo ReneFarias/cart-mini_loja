@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart-mini_loja/static/css/main.31f005db.css",
+    "main.js": "/cart-mini_loja/static/js/main.249a306f.js",
+    "index.html": "/cart-mini_loja/index.html",
+    "main.31f005db.css.map": "/cart-mini_loja/static/css/main.31f005db.css.map",
+    "main.249a306f.js.map": "/cart-mini_loja/static/js/main.249a306f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f005db.css",
+    "static/js/main.249a306f.js"
+  ]
+}
