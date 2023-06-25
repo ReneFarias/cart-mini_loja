@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cart-mini_loja/static/css/main.5b02f9ec.css",
+    "main.css": "/cart-mini_loja/static/css/main.8c467622.css",
     "main.js": "/cart-mini_loja/static/js/main.a14acb18.js",
     "index.html": "/cart-mini_loja/index.html",
-    "main.5b02f9ec.css.map": "/cart-mini_loja/static/css/main.5b02f9ec.css.map",
+    "main.8c467622.css.map": "/cart-mini_loja/static/css/main.8c467622.css.map",
     "main.a14acb18.js.map": "/cart-mini_loja/static/js/main.a14acb18.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b02f9ec.css",
+    "static/css/main.8c467622.css",
     "static/js/main.a14acb18.js"
   ]
 }
